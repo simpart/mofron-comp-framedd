@@ -1,0 +1,27 @@
+{
+  "name": "mofron-comp-framedd",
+  "version": "0.0.1",
+  "description": "frame-dropdown component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+      "mofron-effect-center" : "",
+      "mofron-event-click"   : "",
+      "mofron-event-focus"   : ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-framedd.git"
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-framedd/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-framedd#readme"
+}
